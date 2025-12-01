@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepthi!
 
-<!--
-**Deepthi-Nadar/Deepthi-Nadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Aspiring Developer | Python Enthusiast | UI/UX Learner | Building Fun & Useful Projects
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I love creating clean, user-friendly applications, exploring AI features, and working on projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+I'm currently learning programming and exploring **AI/ML**.
+
+---
+
+## 🛠️ Tech Stack
+- Python
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Java
+  
+
+---
+
+## 📚 Interests
+- AI & Machine Learning
+- Improving coding skills
+- Building small learning projects
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my projects and leave a star😁!* ✨
